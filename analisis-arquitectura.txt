@@ -1,0 +1,8 @@
+El video muestra de manera clara los fundamentos del uso de Git y GitHub como herramientas esenciales para el desarrollo de software moderno.
+Desde lo técnico, destaca la importancia del control de versiones como un mecanismo que permite registrar, gestionar y recuperar cambios en
+el código fuente, lo que es fundamental para entornos de trabajo colaborativo y por supuesto en proyectos basados en microservicios.
+El concepto que más me impacta es el uso de control de versiones distribuido, porque permite que múltiples desarrolladores trabajen simultáneamente
+en un mismo proyecto sin generar conflictos significativos.
+En el contexto del desarrollo full stack y la arquitectura de microservicios, estas herramientas adquieren aún más relevancia, ya que permiten 
+gestionar múltiples servicios de manera organizada, mantener un historial claro de modificaciones, etc.
+	
