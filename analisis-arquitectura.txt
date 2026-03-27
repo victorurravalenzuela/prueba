@@ -1,0 +1,6 @@
+El video sobre la infraestructura de Mercado Libre muestra cómo una arquitectura basada en microservicios
+permite construir sistemas escalables y organizados. Destaca el uso de herramientas que simplifican
+la complejidad, permitiendo a los desarrolladores enfocarse en la lógica del negocio sin preocuparse por la infraestructura.
+
+El concepto que más impacta es que es más barato corregir errores en etapas tempranas que en producción, ya que en sistemas
+grandes un error puede afectar a muchos servicios y aumentar su costo de solución.
